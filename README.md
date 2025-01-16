@@ -18,7 +18,7 @@ The Aceoffix7-Net-Simple project demonstrates how to use the Aceoffix 7.0 produc
 
   [aceclientsetup_7.0.0.1.exe](https://github.com/aceoffix/aceoffix-client/releases/download/v7.0.0.1/aceclientsetup_7.0.0.1.exe)
 
-- Copy the program downloaded in the previous step to the "bin" folder of the current project.
+- Copy the program downloaded in the previous step to the "bin" folder of the current project. If there is no "bin" folder, create a new "bin" folder first.
 
 - Open this project using Visual Studio. Then right-click on the project folder, and click "Manage NuGet Packages -> Browse" in sequence. Enter "Acesoft.AceoffixNet" in the search box and install the latest version.
 
