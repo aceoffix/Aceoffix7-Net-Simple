@@ -1,6 +1,6 @@
 # Aceoffix7-Net-Simple
 
-**Latest Version：7.0.0.2**
+**Latest Version：7.0.1.1**
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The Aceoffix7-Net-Simple project demonstrates how to use the Aceoffix 7.0 produc
 
 - Download the Aceoffix client program.
 
-  [aceclientsetup_7.0.0.2.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.0.2/aceclientsetup_7.0.0.2.exe)
+  [aceclientsetup_7.0.1.1.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.1.1/aceclientsetup_7.0.1.1.exe)
 
 - Copy the program downloaded in the previous step to the "bin" folder of the current project. If there is no "bin" folder, create a new "bin" folder first.
 
@@ -38,7 +38,7 @@ The Aceoffix7-Net-Simple project demonstrates how to use the Aceoffix 7.0 produc
 - Download the Aceoffix client program.
 
 
-​    [aceclientsetup_7.0.0.2.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.0.2/aceclientsetup_7.0.0.2.exe)
+​    [aceclientsetup_7.0.1.1.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.1.1/aceclientsetup_7.0.1.1.exe)
 
 - Copy the program downloaded in the previous step to the "bin" folder of the your web project.
 
